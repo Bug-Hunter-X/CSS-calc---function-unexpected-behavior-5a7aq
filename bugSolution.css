@@ -1,0 +1,7 @@
+/* bugSolution.css */
+#myElement {
+  width: calc(100% - 20px); /* Ensure consistent units */
+  background-color: lightblue;
+  padding: 10px;
+}
+/* Avoid using calc() with unsupported properties */
